@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning 
        - Website and Application development
        - Data Science
-- 💞️ I’m looking to collaborate on Full-stack developer or Data Engineer
+- 💞️ I’m looking to collaborate on Full-stack developer or Full-stack data
 - 📫 How to reach me: wichai.rcnpst@gmail.com
 
 <!---
