@@ -1,13 +1,15 @@
 - 👋 Hi, I’m @wrcnpst
 - 👀 I’m interested in 
+       - Data Analyst, Data Scientist, Data Engineer
        - Artificial Intelligence, Machine Learning
-       - Cloud computing, Internet of things
+       - Cloud computing
        - Full Stack Developer
        - UX / UI design
        - Mobile application development
 - 🌱 I’m currently learning 
        - Website and Application development
-- 💞️ I’m looking to collaborate on Front-end or Full-stack developer
+       - Data Science
+- 💞️ I’m looking to collaborate on Full-stack developer or Data Engineer
 - 📫 How to reach me: wichai.rcnpst@gmail.com
 
 <!---
